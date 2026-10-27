@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=asawahli&show_icons=true&hide_border=true)
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=asawahli&show_icons=true&hide_border=false)
 <!--
 **asawahli/asawahli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
